@@ -25,7 +25,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/inikulin/publish-please.git"
+    "url": "git+https://github.com/DevExpress/publish-please.git"
   },
   "keywords": [
     "gulp",
@@ -50,7 +50,7 @@
     "core-js": "3.37.1",
     "cp-sugar": "1.0.0",
     "elegant-status": "1.1.0",
-    "inquirer": "6.2.0",
+    "inquirer": "^13.1.0",
     "is-ci": "1.2.1",
     "lodash": "^4.17.21",
     "micromatch": "^4.0.7",
@@ -63,7 +63,7 @@
     "@babel/plugin-transform-runtime": "^7.24.7",
     "@babel/preset-env": "^7.24.7",
     "del": "3.0.0",
-    "eslint": "5.8.0",
+    "eslint": "^9.39.2",
     "eslint-config-prettier": "3.1.0",
     "import-fresh": "2.0.0",
     "mkdirp": "^3.0.1",
